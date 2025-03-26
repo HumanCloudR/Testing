@@ -1,9 +1,9 @@
 package com.spring.jwt.service;
 
 import static org.junit.jupiter.api.Assertions.*;
-		import static org.mockito.Mockito.*;
+import static org.mockito.Mockito.*;
 
-		import com.spring.jwt.model.User;
+import com.spring.jwt.model.User;
 import com.spring.jwt.repository.UserRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
